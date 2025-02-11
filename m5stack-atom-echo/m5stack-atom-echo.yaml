@@ -17,6 +17,7 @@ esp32:
     platform_version: 5.4.0
 
 logger:
+api:
 
 wifi:
   ssid: !secret wifi_ssid
